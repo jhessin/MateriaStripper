@@ -1,8 +1,8 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "Author": "Jim Hessin",
+  "Name": "Materia Stripper",
+  "Punchline": "Strips the materia you aren't using!",
+  "Description": "This plugin will remove all the materia that is installed in gear that is not assigned to a gearset any longer.",
   "ApplicableVersion": "any",
   "Tags": [
     "sample",
